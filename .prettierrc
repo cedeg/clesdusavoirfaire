@@ -1,0 +1,7 @@
+{
+  "semi": false,
+  "arrowParens": "always",
+  "singleQuote": true,
+  "prettier.printWidth": 80,
+  "html.format.wrapAttributes": "force-expand-multiline"
+}
