@@ -84,7 +84,7 @@
       </div>
       <div class="column">
         <figure class="image">
-          <img src="~/assets/exposants/jardinsmalorie.png" alt="" />
+          <img src="~/assets/exposants/neon.jpg" alt="" />
         </figure>
       </div>
     </div>
@@ -92,6 +92,54 @@
       <div class="column is-half">
         <figure class="image">
           <img src="~/assets/exposants/cookies.png" alt="" />
+        </figure>
+      </div>
+      <div class="column is-half">
+        <figure class="image">
+          <img src="~/assets/exposants/pattyn.png" alt="" />
+        </figure>
+      </div>
+    </div>
+    <div class="columns is-flex is-centered is-vcentered">
+      <div class="column is-half">
+        <figure class="image">
+          <img src="~/assets/exposants/proshop.png" alt="" />
+        </figure>
+      </div>
+      <div class="column is-half">
+        <figure class="image">
+          <img src="~/assets/exposants/starbat.jpg" alt="" />
+        </figure>
+      </div>
+    </div>
+    <div class="columns is-flex is-centered is-vcentered">
+      <div class="column is-half">
+        <figure class="image">
+          <img src="~/assets/exposants/reveetpassion.jpg" alt="" />
+        </figure>
+      </div>
+      <div class="column is-half">
+        <figure class="image">
+          <img src="~/assets/exposants/mumushuizen.jpg" alt="" />
+        </figure>
+      </div>
+    </div>
+    <div class="columns is-flex is-centered is-vcentered">
+      <div class="column is-half">
+        <figure class="image">
+          <img src="~/assets/exposants/heliboo.png" alt="" />
+        </figure>
+      </div>
+      <div class="column is-half">
+        <figure class="image">
+          <img src="~/assets/exposants/picnic.jpg" alt="" />
+        </figure>
+      </div>
+    </div>
+    <div class="columns is-flex is-centered is-vcentered">
+      <div class="column is-half">
+        <figure class="image">
+          <img src="~/assets/exposants/ilestlheure.jpg" alt="" />
         </figure>
       </div>
     </div>
