@@ -20,7 +20,7 @@
     "bulma-divider": "^0.2.0",
     "cors": "^2.8.5",
     "firebase": "^6.3.3",
-    "nodemailer": "^6.3.0",
+    "nodemailer": "^6.4.16",
     "nuxt": "^2.0.0",
     "nuxt-fire": "^2.0.0",
     "validator": "^11.1.0",
