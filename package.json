@@ -21,7 +21,7 @@
     "cors": "^2.8.5",
     "firebase": "^6.3.3",
     "nodemailer": "^6.3.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-fire": "^2.0.0",
     "validator": "^11.1.0",
     "xss-filters": "^1.2.7"
